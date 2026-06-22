@@ -31,12 +31,6 @@ For MP4 output, FFmpeg must be installed and available in your `PATH`.
 python subplot_gif.py
 ```
 
-Legacy command (still works):
-
-```bash
-python double.py
-```
-
 Output file:
 
 - `double_pendulum_subplot.gif`
@@ -45,12 +39,6 @@ Output file:
 
 ```bash
 python pixel_mp4_mp.py
-```
-
-Legacy command (still works):
-
-```bash
-python double_better.py
 ```
 
 Output file:
